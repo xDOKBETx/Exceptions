@@ -1,3 +1,5 @@
+package ErrorHandlingInProgramming;
+
 public class ErrorHandlingDemo {
     public static void main(String[] args) {
         int numerator = 10;

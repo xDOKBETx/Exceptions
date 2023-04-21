@@ -1,3 +1,5 @@
+package ErrorHandlingInProgramming;
+
 public class ResidualArrayCalculator {
 
     public static void main(String[] args) {
